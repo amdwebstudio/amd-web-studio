@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://amd-web-studio.pages.dev/sitemap.xml
-
-# AMD Web Studio - Bangko Merangin Jambi
-# WA: +6285199703009
-# Alamat: KM6 Kungkai
